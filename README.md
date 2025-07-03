@@ -25,6 +25,7 @@ Use SVMs for binary classification using both linear and non-linear kernels.
 - `README.md`
 - Screenshots of decision boundaries
     ![image](https://github.com/user-attachments/assets/ad26f190-c1da-4f94-82a7-2010ce08e14c)
-        ![image](https://github.com/user-attachments/assets/40e84afe-9c7a-4589-82c1-aa285725f080)
-        ![image](https://github.com/user-attachments/assets/97a6432b-b638-48bb-95df-2fe6e23aaf00)
+    ![image](https://github.com/user-attachments/assets/d8f1d8bc-d99c-4129-b74f-a262c4317aab)
+    ![image](https://github.com/user-attachments/assets/ca3e0f48-c19d-4369-b98e-9409005284bb)
+
 
